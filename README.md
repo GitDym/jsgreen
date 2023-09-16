@@ -3,9 +3,9 @@
 
 Примеры реализаций TodoList:
 
-    https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_todo
+    https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_todo 
 
-    https://codepen.io/THEORLAN2/full/wGJWwv
+    https://codepen.io/THEORLAN2/full/wGJWwv 
 
 Примеры исключительно для того, чтобы показать «Как примерно должно выглядеть мини приложение».
 
@@ -29,7 +29,7 @@
 
 Примечание: при реализации, рекомендуем пользоваться такими источники с открытым исходным кодом как
 
-https://github.com/,
+https://github.com/
 
 https://codesandbox.io/
 
